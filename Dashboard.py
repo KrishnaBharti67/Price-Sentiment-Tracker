@@ -1,4 +1,4 @@
-from pipeline import run_pipeline
+from main import run_pipeline
 import streamlit as st
 
 st.title("JUST TESITNG")
