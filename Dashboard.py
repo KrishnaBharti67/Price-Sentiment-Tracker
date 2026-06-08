@@ -1,6 +1,5 @@
 from pipeline import run_pipeline
 import streamlit as st
-import pandas as pd
 
 st.title("JUST TESITNG")
 x=st.multiselect("Ticker",["NVDA", "AAPL", "GOOG", "GOOGL", "MSFT", "AMZN", "AVGO", "META", "TSLA", "BRK.B",
