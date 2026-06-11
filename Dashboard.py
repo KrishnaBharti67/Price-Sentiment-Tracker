@@ -1,7 +1,7 @@
 from main import run_pipeline
 import streamlit as st
 
-st.title("JUST TESITNG")
+st.title("Sentiment Tracker")
 x=st.multiselect("Ticker",["NVDA", "AAPL", "GOOG", "GOOGL", "MSFT", "AMZN", "AVGO", "META", "TSLA", "BRK.B",
  "LLY", "WMT", "JPM", "V", "UNH", "XOM", "ORCL", "MA", "COST", "HD",
  "PG", "NFLX", "JNJ", "BAC", "ABBV", "KO", "CRM", "CVX", "MRK", "AMD",
